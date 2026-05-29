@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>loja de doces </title>
+    <img src="bolo.jpg" alt="Descrição da imagem 1" width="300">
+    <h3>bolo de chocolate - R$25,50</h3>
+    <img src="doces.jpg" alt="Descrição da imagem 2" width="300">
+    <h3>doces sortidos - R$15,00</h3>
+    <img src="pirulitos.jpg" alt="Descrição da imagem 3" width="300">
+    <h3>pirulitos - R$5,00</h3>
+</head>
+<body>
+    
+</body>
+</html>
